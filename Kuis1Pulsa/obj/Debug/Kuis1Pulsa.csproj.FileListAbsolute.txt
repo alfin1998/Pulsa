@@ -1,0 +1,47 @@
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe.config
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.pdb
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csprojResolveAssemblyReference.cache
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Form1.resources
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormUtama.resources
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Properties.Resources.resources
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.GenerateResource.Cache
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.CoreCompileInputs.cache
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.exe
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.pdb
+C:\Users\Bimo\Google Drive\Polinema\Semester 3\GUI\project\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormDeposit.resources
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe.config
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.pdb
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csprojResolveAssemblyReference.cache
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Form1.resources
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormDeposit.resources
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormUtama.resources
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Properties.Resources.resources
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.GenerateResource.Cache
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.CoreCompileInputs.cache
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.exe
+E:\FOLDER ILBAD 2016\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.pdb
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csprojResolveAssemblyReference.cache
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormAwal.resources
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormDeposit.resources
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormUtama.resources
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Properties.Resources.resources
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.GenerateResource.Cache
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.CoreCompileInputs.cache
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.exe
+D:\Kuis1Pulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.pdb
+D:\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe.config
+D:\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe
+D:\Kuis1Pulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.pdb
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe.config
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.exe
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.pdb
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.exe
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\bin\Debug\Kuis1Pulsa.pdb
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csprojResolveAssemblyReference.cache
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormAwal.resources
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormDeposit.resources
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.FormUtama.resources
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.Properties.Resources.resources
+D:\semester 3\GUI\FormPulsa\Kuis1Pulsa\obj\Debug\Kuis1Pulsa.csproj.GenerateResource.Cache
